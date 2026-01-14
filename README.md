@@ -3,7 +3,21 @@
 ![Language](https://img.shields.io/badge/language-C++-blue)
 
 A collection of my solutions to LeetCode algorithmic problems. The main goal of this repository is to track my progress in data structures and algorithms (DSA) and to serve as a reference for common patterns.  
-This is just a side hobby I do when I am not developing Games
+This is just a side hobby I do when I am not developing Games.  
+
+```text
+.
+├── 00-99
+│   ├── 0001-two-sum.cpp
+│   └── 0021-merge-two-sorted-lists.cpp
+├── 100-199
+│   ├── 0121-best-time-to-buy-and-sell-stock.cpp
+│   └── 0146-lru-cache.cpp
+├── 200-299
+│   └── 0206-reverse-linked-list.cpp
+├── LICENSE
+└── README.md
+```
 
 ## 🚀 Progress
 
