@@ -4,9 +4,11 @@
 ![LeetCode Stats](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
 
 A collection of my solutions to LeetCode algorithmic problems. The main goal of this repository is to track my progress in data structures and algorithms (DSA) and to serve as a reference for common patterns.
+This is just a side hobby I do when I am not developing Games
 
 ## 🚀 Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/GamerGalactic?theme=dark&font=baloo&ext=heatmap)
 
-🚀 ProgressDifficultySolvedEasy00Medium00Hard00Total00(Note: You can replace this manual table with a dynamic stats card if you prefer automation, see below)🛠️ Tech Stack & NotesLanguages: C++, Python, Java (Update this with your stack)Editor: VS CodeComments: Each solution file includes the problem description and time/space complexity analysis.🤝 ConnectIf you find a bug or have a more optimized approach, feel free to open a Pull Request!<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+🛠️ Tech Stack & NotesLanguages: C++
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
