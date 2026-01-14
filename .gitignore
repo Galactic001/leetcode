@@ -1,0 +1,22 @@
+# --- User Specific ---
+setup_folders.py
+
+# --- C++ Build Artifacts ---
+# Windows Executables
+*.exe
+*.obj
+*.pdb
+*.ilk
+
+# Mac/Linux Executables and Objects
+*.out
+*.app
+*.o
+
+# --- IDE Settings (VS Code) ---
+.vscode/
+.idea/
+
+# --- OS System Files ---
+.DS_Store
+Thumbs.db
