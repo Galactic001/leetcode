@@ -13,7 +13,24 @@ This is just a side hobby I do when I am not developing Games.
 
 The solutions are organized by problem number ranges (batches of 100) to keep the repository clean as the number of solutions grows.
 
-``
+
+```text
+.
+├── 00-99
+│   ├── 0001-two-sum
+│   └── 0021-merge-two-sorted-lists
+├── 100-199
+│   ├── 0121-best-time-to-buy-and-sell-stock
+│   └── 0146-lru-cache
+├── 200-299
+│   └── 0206-reverse-linked-list
+├── LICENSE
+└── README.md
+```
+
+## 📂 All Solutions List
+
+''
 
 | ID | Problem | Solution |
 |:---:|:---|:---:|
@@ -39,16 +56,4 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
 
-```text
-.
-├── 00-99
-│   ├── 0001-two-sum
-│   └── 0021-merge-two-sorted-lists
-├── 100-199
-│   ├── 0121-best-time-to-buy-and-sell-stock
-│   └── 0146-lru-cache
-├── 200-299
-│   └── 0206-reverse-linked-list
-├── LICENSE
-└── README.md
-
+''

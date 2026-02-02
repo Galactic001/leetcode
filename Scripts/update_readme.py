@@ -49,8 +49,8 @@ def update_readme():
     # ---------------------------------------------
     # FIX: You must define these markers!
     # ---------------------------------------------
-    start_marker = "``"
-    end_marker = "``"
+    start_marker = "''"
+    end_marker = "''"
 
     # SAFETY CHECK: Ensure both markers exist in the README content
     if start_marker not in content or end_marker not in content:
