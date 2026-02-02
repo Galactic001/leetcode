@@ -57,3 +57,28 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
 
 ''
+
+| ID | Problem | Solution |
+|:---:|:---|:---:|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [📂 Code](./00-99/1_Two_Sum) |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [📂 Code](./00-99/12_Integer_to_Roman) |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [📂 Code](./00-99/14_Longest_Common_Prefix) |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [📂 Code](./00-99/21_Merge_Two_Sorted_Lists) |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [📂 Code](./00-99/27_Remove_Element) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [📂 Code](./00-99/35_Search_Insert_Position) |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [📂 Code](./00-99/70_Climbing_Stairs) |
+| 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [📂 Code](./00-99/82_Remove_Duplicates_from_Sorted_List_II) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [📂 Code](./00-99/83_Remove_Duplicates_from_Sorted_List) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
+| 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
+| 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
+| 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
+| 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
+| 1984 | [Minimum Difference Between Highest Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-lowest-of-k-scores/) | [📂 Code](./1900-1999/1984_Minimum_Difference_Between_Highest_Lowest_of_K_Scores) |
+| 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [📂 Code](./3000-3099/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I) |
+| 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [📂 Code](./3000-3099/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II) |
+| 3507 | [Minimum Pair Removal To Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [📂 Code](./3500-3599/3507_Minimum_Pair_Removal_To_Sort_Array_I) |
+| 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
+| 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
+
