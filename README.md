@@ -55,5 +55,3 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3507 | [Minimum Pair Removal To Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [📂 Code](./3500-3599/3507_Minimum_Pair_Removal_To_Sort_Array_I) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
-
-''

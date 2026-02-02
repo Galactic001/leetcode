@@ -1,28 +1,23 @@
-# 🧠 LeetCode Solutions
-![LeetCode Stats](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)
-![Languages](https://img.shields.io/badge/Languages-C++_C%23-blue)
+# Solution Explanation: Divide Array Into Subarrays With Minimum Cost II (LeetCode 3013)
 
-A collection of my solutions to LeetCode algorithmic problems. The main goal of this repository is to track my progress in data structures and algorithms (DSA) and to serve as a reference for common patterns.  
-This is just a side hobby I do when I am not developing Games.  
+## 1. The difference from "Minimum Cost I"
+In the easy version (Q3010), we just picked the 2 smallest numbers from the *entire* array.
+In this hard version, we have a constraint: **`dist`**.
 
-## 📂 Repository Structure
+* We must choose `k-1` additional numbers to start new subarrays.
+* The index difference between the first chosen number and the last chosen number must be $\le dist$.
+* **Translation:** We need to find a window of size `dist + 1` somewhere in the array where the **sum of the smallest `k-1` numbers** is minimized.
 
-The solutions are organized by problem number ranges (batches of 100) to keep the repository clean as the number of solutions grows.
+## 2. The Strategy: Sliding Window with Two Sets
+We cannot simply re-sort the window every time we move it (that would be too slow, $O(N \cdot K \log K)$). instead, we use a smart data structure to maintain the "Top `k-1` Smallest" dynamically.
 
-```text
-.
-├── 00-99
-│   ├── 0001-two-sum
-│   └── 0021-merge-two-sorted-lists
-├── 100-199
-│   ├── 0121-best-time-to-buy-and-sell-stock
-│   └── 0146-lru-cache
-├── 200-299
-│   └── 0206-reverse-linked-list
-├── LICENSE
-└── README.md
-```
+We maintain two `multisets` (Sorted Lists):
+1.  **Set L (The "Active" Team):** Contains the **smallest `k-1`** numbers in the current window. We track the sum of these.
+2.  **Set R (The "Reserve" Team):** Contains all other numbers in the current window that are too big to be in the top `k-1`.
 
-## 🚀 Progress
+[Image of sliding window with two sets logic]
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/GamerGalactic?theme=dark&font=baloo&ext=heatmap)
+## 3. The Algorithm Steps
+As we slide the window one step to the right:
+
+1.  **Remove Old
