@@ -5,6 +5,10 @@
 A collection of my solutions to LeetCode algorithmic problems. The main goal of this repository is to track my progress in data structures and algorithms (DSA) and to serve as a reference for common patterns.  
 This is just a side hobby I do when I am not developing Games.  
 
+## 🚀 Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/GamerGalactic?theme=dark&font=baloo&ext=heatmap)
+
 ## 📂 Repository Structure
 
 The solutions are organized by problem number ranges (batches of 100) to keep the repository clean as the number of solutions grows.
@@ -20,9 +24,4 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 ├── 200-299
 │   └── 0206-reverse-linked-list
 ├── LICENSE
-└── README.md
-```
-
-## 🚀 Progress
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/GamerGalactic?theme=dark&font=baloo&ext=heatmap)
+└── README.md   
