@@ -46,25 +46,25 @@ def update_readme():
     with open(README_PATH, 'r', encoding='utf-8') as f:
         content = f.read()
 
+    # ---------------------------------------------
+    # FIX: You must define these markers!
+    # ---------------------------------------------
     start_marker = ""
     end_marker = ""
 
-    # SAFETY CHECK: Ensure both markers exist
+    # SAFETY CHECK: Ensure both markers exist in the README content
     if start_marker not in content or end_marker not in content:
-        print("Error: Markers not found. No changes made.")
-        return
+        print(f"Error: Markers '{start_marker}' and '{end_marker}' not found in README. No changes made.")
+        # We return exit code 1 here manually so the Action knows it failed
+        exit(1) 
 
     # SAFE SPLIT METHOD
-    # This splits the file into exactly 3 parts:
-    # 1. Everything BEFORE the list
-    # 2. The old list (which we discard)
-    # 3. Everything AFTER the list
     try:
         before_part = content.split(start_marker)[0]
         after_part = content.split(end_marker)[1]
     except IndexError:
         print("Error: Markers appear corrupted.")
-        return
+        exit(1)
 
     problems = get_solved_problems()
     new_table = generate_markdown(problems)

@@ -24,4 +24,4 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 ├── 200-299
 │   └── 0206-reverse-linked-list
 ├── LICENSE
-└── README.md   
+└── README.md
