@@ -1,0 +1,36 @@
+name: Update LeetCode List
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    # -----------------------------------------------------------------
+    # THIS LINE IS THE GATEKEEPER
+    # It only runs if the LAST commit message starts with "solution:"
+    # -----------------------------------------------------------------
+    if: startsWith(github.event.head_commit.message, 'solution:')
+    
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run update script
+        run: python Scripts/update_readme.py
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs: auto-update solved problems list"
+          file_pattern: README.md
