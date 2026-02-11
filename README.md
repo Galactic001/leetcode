@@ -44,11 +44,15 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [📂 Code](./00-99/70_Climbing_Stairs) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [📂 Code](./00-99/82_Remove_Duplicates_from_Sorted_List_II) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [📂 Code](./00-99/83_Remove_Duplicates_from_Sorted_List) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [📂 Code](./0100-0199/110_Balanced_Binary_Tree) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [📂 Code](./0100-0199/136_Single_Number) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [📂 Code](./0200-0299/268_Missing_Number) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [📂 Code](./0400-0499/412_Fizz_Buzz) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
+| 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [📂 Code](./0900-0999/917_Reverse_Only_Letters) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
@@ -75,6 +79,8 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [📂 Code](./00-99/70_Climbing_Stairs) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [📂 Code](./00-99/82_Remove_Duplicates_from_Sorted_List_II) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [📂 Code](./00-99/83_Remove_Duplicates_from_Sorted_List) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [📂 Code](./0100-0199/136_Single_Number) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
