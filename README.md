@@ -46,11 +46,14 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [📂 Code](./00-99/83_Remove_Duplicates_from_Sorted_List) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [📂 Code](./0100-0199/110_Balanced_Binary_Tree) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [📂 Code](./0100-0199/136_Single_Number) |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [📂 Code](./0100-0199/190_Reverse_Bits) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [📂 Code](./0200-0299/268_Missing_Number) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [📂 Code](./0400-0499/412_Fizz_Buzz) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
+| 693 | [Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [📂 Code](./0600-0699/693_Binary_Number_With_Alternating_Bits) |
+| 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [📂 Code](./0600-0699/696_Count_Binary_Substrings) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [📂 Code](./0700-0799/709_To_Lower_Case) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/) | [📂 Code](./0700-0799/771_Jewels_And_Stones) |
@@ -89,8 +92,11 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [📂 Code](./0400-0499/412_Fizz_Buzz) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [📂 Code](./0700-0799/709_To_Lower_Case) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
+| 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/) | [📂 Code](./0700-0799/771_Jewels_And_Stones) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [📂 Code](./0900-0999/917_Reverse_Only_Letters) |
+| 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [📂 Code](./1000-1099/1002_Find_Common_Characters) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
@@ -102,3 +108,4 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [📂 Code](./3600-3699/3637_Trionic_Array_I) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
+
