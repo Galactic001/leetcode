@@ -59,10 +59,13 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [📂 Code](./0700-0799/762_Prime_Number_of_Set_Bits_in_Binary_Representation) |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/) | [📂 Code](./0700-0799/771_Jewels_And_Stones) |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [📂 Code](./0800-0899/868_Binary_Gap) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [📂 Code](./0900-0999/917_Reverse_Only_Letters) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [📂 Code](./1000-1099/1002_Find_Common_Characters) |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [📂 Code](./1000-1099/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [📂 Code](./1400-1499/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
 | 1984 | [Minimum Difference Between Highest Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-lowest-of-k-scores/) | [📂 Code](./1900-1999/1984_Minimum_Difference_Between_Highest_Lowest_of_K_Scores) |
@@ -91,6 +94,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [📂 Code](./0100-0199/136_Single_Number) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [📂 Code](./0100-0199/190_Reverse_Bits) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [📂 Code](./0200-0299/268_Missing_Number) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [📂 Code](./0200-0299/283_Move_Zeroes) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [📂 Code](./0400-0499/412_Fizz_Buzz) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
@@ -99,6 +103,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [📂 Code](./0600-0699/696_Count_Binary_Substrings) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [📂 Code](./0700-0799/709_To_Lower_Case) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
+| 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [📂 Code](./0700-0799/762_Prime_Number_of_Set_Bits_in_Binary_Representation) |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/) | [📂 Code](./0700-0799/771_Jewels_And_Stones) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [📂 Code](./0900-0999/917_Reverse_Only_Letters) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [📂 Code](./1000-1099/1002_Find_Common_Characters) |
