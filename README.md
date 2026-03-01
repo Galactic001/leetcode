@@ -65,6 +65,8 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [📂 Code](./1000-1099/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [📂 Code](./1300-1399/1356_Sort_Integers_by_The_Number_of_1_Bits) |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [📂 Code](./1400-1499/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One) |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [📂 Code](./1400-1499/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
@@ -105,10 +107,13 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [📂 Code](./0700-0799/744_Find_Smallest_Letter_Greater_Than_Target) |
 | 762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/) | [📂 Code](./0700-0799/762_Prime_Number_of_Set_Bits_in_Binary_Representation) |
 | 771 | [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones/) | [📂 Code](./0700-0799/771_Jewels_And_Stones) |
+| 868 | [Binary Gap](https://leetcode.com/problems/binary-gap/) | [📂 Code](./0800-0899/868_Binary_Gap) |
 | 917 | [Reverse Only Letters](https://leetcode.com/problems/reverse-only-letters/) | [📂 Code](./0900-0999/917_Reverse_Only_Letters) |
 | 1002 | [Find Common Characters](https://leetcode.com/problems/find-common-characters/) | [📂 Code](./1000-1099/1002_Find_Common_Characters) |
+| 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [📂 Code](./1000-1099/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [📂 Code](./1400-1499/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
 | 1984 | [Minimum Difference Between Highest Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-lowest-of-k-scores/) | [📂 Code](./1900-1999/1984_Minimum_Difference_Between_Highest_Lowest_of_K_Scores) |
