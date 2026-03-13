@@ -40,13 +40,21 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [📂 Code](./00-99/21_Merge_Two_Sorted_Lists) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [📂 Code](./00-99/27_Remove_Element) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [📂 Code](./00-99/35_Search_Insert_Position) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | [📂 Code](./00-99/46_Permutations) |
+| 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [📂 Code](./00-99/48_Rotate_Image) |
+| 58 | [Length of the last word](https://leetcode.com/problems/length-of-the-last-word/) | [📂 Code](./00-99/58_Length_of_the_last_word) |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [📂 Code](./00-99/67_Add_Binary) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [📂 Code](./00-99/70_Climbing_Stairs) |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [📂 Code](./00-99/75_Sort_Colors) |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [📂 Code](./00-99/82_Remove_Duplicates_from_Sorted_List_II) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [📂 Code](./00-99/83_Remove_Duplicates_from_Sorted_List) |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [📂 Code](./00-99/88_Merge_Sorted_Array) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [📂 Code](./0100-0199/110_Balanced_Binary_Tree) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [📂 Code](./0100-0199/136_Single_Number) |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [📂 Code](./0100-0199/190_Reverse_Bits) |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [📂 Code](./0100-0199/191_Number_of_1_Bits) |
+| 241 | [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) | [📂 Code](./0200-0299/241_Different_Ways_to_Add_Parentheses) |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [📂 Code](./0200-0299/242_Valid_Anagram) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [📂 Code](./0200-0299/268_Missing_Number) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [📂 Code](./0200-0299/283_Move_Zeroes) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
@@ -68,8 +76,12 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [📂 Code](./1300-1399/1356_Sort_Integers_by_The_Number_of_1_Bits) |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [📂 Code](./1400-1499/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One) |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [📂 Code](./1400-1499/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K) |
+| 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/) | [📂 Code](./1500-1599/1545_Find_Kth_Bit_in_Nth_Binary_String) |
+| 1689 | [Partitioning Into Minimum Number Of Deci Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/) | [📂 Code](./1600-1699/1689_Partitioning_Into_Minimum_Number_Of_Deci-Binary_Numbers) |
+| 1784 | [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/) | [📂 Code](./1700-1799/1784_Check_if_Binary_String_Has_at_Most_One_Segment_of_Ones) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
+| 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [📂 Code](./1900-1999/1980_Find_Unique_Binary_String) |
 | 1984 | [Minimum Difference Between Highest Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-lowest-of-k-scores/) | [📂 Code](./1900-1999/1984_Minimum_Difference_Between_Highest_Lowest_of_K_Scores) |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [📂 Code](./3000-3099/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I) |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [📂 Code](./3000-3099/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II) |
@@ -113,6 +125,8 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [📂 Code](./1000-1099/1022_Sum_of_Root_To_Leaf_Binary_Numbers) |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) | [📂 Code](./1200-1299/1200_Minimum_Absolute_Difference) |
 | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [📂 Code](./1200-1299/1290_Convert_Binary_Number_in_a_Linked_List_to_Integer) |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | [📂 Code](./1300-1399/1356_Sort_Integers_by_The_Number_of_1_Bits) |
+| 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | [📂 Code](./1400-1499/1404_Number_of_Steps_to_Reduce_a_Number_in_Binary_Representation_to_One) |
 | 1461 | [Check If a String Contains All Binary Codes of Size K](https://leetcode.com/problems/check-if-a-string-contains-all-binary-codes-of-size-k/) | [📂 Code](./1400-1499/1461_Check_If_a_String_Contains_All_Binary_Codes_of_Size_K) |
 | 1816 | [Truncate Sentences](https://leetcode.com/problems/truncate-sentences/) | [📂 Code](./1800-1899/1816_Truncate_Sentences) |
 | 1877 | [Minimize Maximum Pair Sum In Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/) | [📂 Code](./1800-1899/1877_Minimize_Maximum_Pair_Sum_In_Array) |
