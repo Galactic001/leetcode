@@ -62,6 +62,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [📂 Code](./0300-0399/338_Counting_Bits) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [📂 Code](./0300-0399/344_Reverse_String) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [📂 Code](./0300-0399/349_Intersection_of_Two_Arrays) |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [📂 Code](./0300-0399/387_First_Unique_Character_in_a_String) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [📂 Code](./0400-0499/412_Fizz_Buzz) |
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [📂 Code](./0400-0499/451_Sort_Characters_By_Frequency) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
@@ -92,6 +93,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 1980 | [Find Unique Binary String](https://leetcode.com/problems/find-unique-binary-string/) | [📂 Code](./1900-1999/1980_Find_Unique_Binary_String) |
 | 1984 | [Minimum Difference Between Highest Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-lowest-of-k-scores/) | [📂 Code](./1900-1999/1984_Minimum_Difference_Between_Highest_Lowest_of_K_Scores) |
 | 2053 | [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/) | [📂 Code](./2000-2099/2053_Kth_Distinct_String_in_an_Array) |
+| 2833 | [Furthest Point From Origin](https://leetcode.com/problems/furthest-point-from-origin/) | [📂 Code](./2800-2899/2833_Furthest_Point_From_Origin) |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/) | [📂 Code](./2800-2899/2839_Check_if_Strings_Can_be_Made_Equal_With_Operations_I) |
 | 3010 | [Divide an Array Into Subarrays With Minimum Cost I](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-i/) | [📂 Code](./3000-3099/3010_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_I) |
 | 3013 | [Divide an Array Into Subarrays With Minimum Cost II](https://leetcode.com/problems/divide-an-array-into-subarrays-with-minimum-cost-ii/) | [📂 Code](./3000-3099/3013_Divide_an_Array_Into_Subarrays_With_Minimum_Cost_II) |
@@ -99,6 +101,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [📂 Code](./3600-3699/3637_Trionic_Array_I) |
 | 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [📂 Code](./3700-3799/3740_Minimum_Distance_Between_Three_Equal_Elements_I) |
+| 3751 | [Total Waviness of Numbers in Range I](https://leetcode.com/problems/total-waviness-of-numbers-in-range-i/) | [📂 Code](./3700-3799/3751_Total_Waviness_of_Numbers_in_Range_I) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
 
 ''
@@ -137,6 +140,7 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [📂 Code](./0400-0499/451_Sort_Characters_By_Frequency) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [📂 Code](./0500-0599/509_Fibonacci_Number) |
 | 541 | [Reverse String II](https://leetcode.com/problems/reverse-string-ii/) | [📂 Code](./0500-0599/541_Reverse_String_II) |
+| 657 | [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/) | [📂 Code](./0600-0699/657_Robot_Return_to_Origin) |
 | 693 | [Binary Number With Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) | [📂 Code](./0600-0699/693_Binary_Number_With_Alternating_Bits) |
 | 696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) | [📂 Code](./0600-0699/696_Count_Binary_Substrings) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [📂 Code](./0700-0799/709_To_Lower_Case) |
@@ -168,5 +172,6 @@ The solutions are organized by problem number ranges (batches of 100) to keep th
 | 3507 | [Minimum Pair Removal To Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i/) | [📂 Code](./3500-3599/3507_Minimum_Pair_Removal_To_Sort_Array_I) |
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits/) | [📂 Code](./3500-3599/3536_Maximum_Product_of_Two_Digits) |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i/) | [📂 Code](./3600-3699/3637_Trionic_Array_I) |
+| 3740 | [Minimum Distance Between Three Equal Elements I](https://leetcode.com/problems/minimum-distance-between-three-equal-elements-i/) | [📂 Code](./3700-3799/3740_Minimum_Distance_Between_Three_Equal_Elements_I) |
 | 3823 | [Reverse Letters Then Special Characters in a String](https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/) | [📂 Code](./3800-3899/3823_Reverse_Letters_Then_Special_Characters_in_a_String) |
 
